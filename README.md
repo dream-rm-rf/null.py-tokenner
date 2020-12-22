@@ -1,2 +1,9 @@
 # null.py-tokenner
-it is open sourse toll for vkontakte.com, that allow you to controll page with api-token
+it is open sourse tool for vkontakte.com, that allow you to controll page with api-token
+
+Это инструмент для управления страницей через токен с открытым исходным кодом
+
+Установка:
+pip3 install requiements.txt -r
+
+для работы программы необходим python3 версии 3.7+
