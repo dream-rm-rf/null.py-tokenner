@@ -7,3 +7,5 @@ it is open sourse tool for vkontakte.com, that allow you to controll page with a
 pip3 install requiements.txt -r
 
 для работы программы необходим python3 версии 3.7+
+
+Токены вносятся в файл tokens.py, вместе с информацией о страницах(опционально).
